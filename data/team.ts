@@ -42,6 +42,6 @@ export const teamData: TeamMember[] = [
     name: "Tejpal Sharma",
     role: "Team Member",
     bio: "Marketer & Communication Expert",
-    imagePath: "/images/team/Member5.png"
+    imagePath: "/images/team/member5.png"
   }
 ];
