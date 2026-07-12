@@ -1,0 +1,3 @@
+{
+  "ignoreCommand": "echo 'Skipped: deployments run via GitHub Actions' && exit 0"
+}
