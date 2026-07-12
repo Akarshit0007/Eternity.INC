@@ -23,7 +23,7 @@ export default function Navbar() {
         >
           {/* The Logo Image */}
           <Image
-            src="/svg/Logo.png"
+            src="/images/Logo.png"
             alt="Eternity.INC Logo"
             width={48}
             height={48}
