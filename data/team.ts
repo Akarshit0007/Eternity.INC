@@ -23,13 +23,13 @@ export const teamData: TeamMember[] = [
     bio: "Web Devolpement",
     imagePath: "/images/team/member2.png"
   },
-  // {
-  //   id: "member-3",
-  //   name: "Abhay",
-  //   role: "Designer",
-  //   bio: "UI/UX Designer & Digital Marketing Expert",
-  //   imagePath: "/images/team/Member3.jpeg"
-  // },
+  {
+    id: "member-3",
+    name: "Abhay",
+    role: "Designer",
+    bio: "UI/UX Designer & Digital Marketing Expert",
+    imagePath: "/images/team/Abhay.png"
+  },
    {
     id: "member-4",
     name: "Rahul Sharma",
